@@ -1,1 +1,2 @@
 Autor1 Email1@emaildeprueba.cat
+Autor2 Email2@emaildeprueba.com
